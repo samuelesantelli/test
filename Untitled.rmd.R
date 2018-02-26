@@ -1,4 +1,4 @@
-x <- c(1,2,3)
-y <- c(0,1,2)
-plot <- plot(x~y)
+x <- c(1:10)
+y <- c(0:9)
+plot <- plot(y~x)
 abline(1,1)
