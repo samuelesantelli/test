@@ -1,4 +1,2 @@
 # test
-Have a wonderful day
-
-"a little bit about yourself"
+Have a nice day
