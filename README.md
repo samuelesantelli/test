@@ -10,5 +10,5 @@ Have a nice day :)
  
 ## We need to add some changes here
 
-$$ Comprendes?? $$
+These changes are almost done.
  
