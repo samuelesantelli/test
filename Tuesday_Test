@@ -8,9 +8,6 @@ Secondly, we need to add two equations (in an unordered list):
 
 *Equation 1:  
 +$ CV = mean/sd $  
-+$ \sigma = \sqrt{ln(CV^{2}-1)}  $  
-Right, my bad.  
++$ \sigma = \sqrt{ln(CV^{2}+1)}  $  
 
-Done :)
-
-
+All Done :)  
